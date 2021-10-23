@@ -1,0 +1,10 @@
+[book]
+authors = ["Ian A. \"Jack\" Nesbitt-MacDonald"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Hawkmoth Country"
+
+[output.html]
+
+[output.linkcheck]
